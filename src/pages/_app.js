@@ -7,7 +7,6 @@ import Head from 'next/head';
 import { ContainerCustom, HeaderJobs } from '@/components';
 import { ThemeProvider } from '@material-ui/core/styles';
 import CssBaseline from '@material-ui/core/CssBaseline';
-import 'swiper/swiper-bundle.css';
 import theme from '@/lib/theme';
 
 function MyApp(props) {
